@@ -1,0 +1,44 @@
+---
+title: "Actividad"
+---
+
+#Actividad
+
+##Parte 0
+
+```{r}
+url <- "https://raw.githubusercontent.com/Felipe1401/ggplot_practico/refs/heads/main/invernadero_sucio.csv"
+download.file(url, destfile = "invernadero_sucio.csv", mode = "wb")
+```
+
+```{r}
+datos <- read.csv("invernadero_sucio.csv")
+head(datos)
+str(datos)
+summary(datos)
+```
+
+##Parte 1
+
+```{r}
+```
+
+## Parte 2
+
+```{r}
+```
+
+## Parte 3
+
+```{r}
+```
+
+## Parte 4
+
+```{r}
+```
+
+## Parte opcional
+
+```{r}
+```
