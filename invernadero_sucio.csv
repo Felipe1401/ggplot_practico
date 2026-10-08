@@ -1,0 +1,87 @@
+id_planta,tratamiento,dia,agua_ml,altura_cm
+P001,Control,7,140,8.9
+P002,Control,14,120,13.7
+P003,Control,21,100,12.5
+P004,Control,28,80,16.0
+P005,Control,7,140,7.6
+P006,Control,14,120,
+P007,Control,21,100,13.1
+P008,Control,28,80,16.6
+P009,Control,7,140,10.3
+P010,Control,14,120,-3.5
+P011,Control,21,100,14.3
+P012,Control,28,80,16.3
+P013,Control,7,140,8.2
+P014,Control,14,120,13.2
+P015,Control,21,100,12.5
+P016,Control,28,80,16.1
+P017,Control,7,140,11.7
+P018,Control,14,120,8.6
+P019,control,21,100,13.2
+P020,Control,28,80,16.2
+P021,Control,7,140,11.6
+P022,Control,14,120,9.4
+P023,Control,21,100,11.3
+P024,Control,28,80,17.4
+P025,Control,7,140,12.4
+P026,Control,14,120,9.0
+P027,Control,21,100,14.4
+P028,Control,28,80,17.9
+P029,Fertilizante A,7,140,12.7
+P030,Fertilizante A,14,120,13.5
+P031,Fertilizante A,21,100,17.1
+P032,Fertilizante A,28,80,
+P033,Fertilizante A,7,140,12.4
+P034,Fertilizante A,14,120,13.5
+P035,Fertilizante A,21,100,18.3
+P036,Fertilizante A,28,80,21.8
+P037,Fertilizante A,7,140,14.8
+P038,Fertilizante A,14,120,16.2
+P039,Fertilizante A,21,100,21.2
+P040,Fertilizante A,28,80,21.9
+P041,Fertilizante A,7,140,12.9
+P042,Fertilizante A,14,120,15.4
+P043,Fertilizante A,21,100,14.4
+P044,Fertilizante A,28,80,20.4
+P045,Fertilizante A,7,-20,9.6
+P046,Fertilizante A,14,120,15.0
+P047,Fertilizante A,21,100,17.4
+P048,Fertilizante A,28,80,23.1
+P049,Fertilizante A,7,140,12.8
+P050,Fertilizante A,14,120,16.4
+P051,Fertilizante A,21,100,17.8
+P052,Fertilizante A,28,80,18.1
+P053,Fertilizante A,7,140,14.8
+P054,Fertilizante A,14,120,15.7
+P055,Fertilizante A,21,100,18.7
+P056,Fertilizante A,28,80,20.6
+P057,Fertilizante B ,7,140,13.7
+P058,Fertilizante B,14,120,18.9
+P059,Fertilizante B,21,100,22.2
+P060,Fertilizante B,28,80,25.1
+P061,Fertilizante B,7,140,15.6
+P062,Fertilizante B,14,120,15.3
+P063,Fertilizante B,21,100,19.2
+P064,Fertilizante B,28,,23.8
+P065,Fertilizante B,7,140,14.7
+P066,Fertilizante B,14,120,19.0
+P067,Fertilizante B,21,100,16.9
+P068,Fertilizante B,28,80,22.4
+P069,Fertilizante B,7,140,18.0
+P070,Fertilizante B,14,120,19.5
+P071,Fertilizante B,21,100,21.4
+P072,Fertilizante B,28,80,20.9
+P073,fertilizante a,7,140,14.1
+P074,Fertilizante B,14,120,17.0
+P075,Fertilizante B,21,100,19.8
+P076,Fertilizante B,28,80,22.7
+P077,Fertilizante B,7,140,16.9
+P078,Fertilizante B,14,120,19.0
+P079,Fertilizante B,21,100,20.6
+P080,Fertilizante B,28,80,24.7
+P081,Fertilizante B,7,140,15.1
+P082,Fertilizante B,14,120,15.5
+P083,Fertilizante B,21,100,18.8
+P084,Fertilizante B,28,80,20.1
+P013,Control,7,140,8.2
+P054,Fertilizante A,14,120,15.7
